@@ -1,7 +1,7 @@
 Bazi Destiny Master
 八字命理分析 skill，核心目标是把传统子平八字断法整理成可审计、可复用、可持续校验的 AI 工作流。
 
-本项目不限定 Codex 使用。只要你的 AI 工具支持读取 skill / prompt / 本地知识库，例如 Codex、OpenClaw、Hermes Agent 或其他 agent，都可以调用本项目的 SKILL.md 与 references/。
+本项目不限定 Codex 使用。只要你的 AI 工具支持读取 skill / prompt / 本地知识库，例如 Codex、OpenClaw、Hermes Agent 或其他 agent，都可以调用本项目的 SKILL.md 与 references/。 项目拷贝地址：git clone https://github.com/stephenxu007-ux/bazi-destiny-master.git
 
 项目定位
 本项目以梁湘润子平八字体系为主轴，结合《子平真诠》《滴天髓》《三命通会》《穷通宝鉴》《神峰通考》等规则，重点处理：
